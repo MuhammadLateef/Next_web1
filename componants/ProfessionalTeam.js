@@ -23,7 +23,6 @@ export default function ProfessionalTeam() {
           backgroundImage: `url('/professional_1.svg')`,
           backgroundRepeat: "no-repeat",
           backgroundSize: "100% 100%",
-        //   width: "100%",
           height: "76vh",
         }}
       >
