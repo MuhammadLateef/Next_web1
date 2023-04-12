@@ -63,8 +63,6 @@ export default function Home() {
             Hire the best
           </Typography>
           <Box sx={{transform: "skew(-20deg, 0deg)",backgroundColor: "#fff",display: "inline-block",padding: "0px 1rem",}}>
-
-          
           <Typography
             sx={{
               display: "inline-block",
